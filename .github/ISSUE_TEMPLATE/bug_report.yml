@@ -7,8 +7,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report 🤗
-        Make sure there aren't any open/closed issues for this topic 😃
+        Thanks for taking the time to fill out this bug report.
+        Please make sure there aren't any open/closed issues for this topic.
         
   - type: textarea
     id: bug-description
